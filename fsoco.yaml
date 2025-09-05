@@ -1,0 +1,9 @@
+path: ../datasets/fsoco/yolo_cones/
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: orange cone
+  1: blue cone
+  2: yellow cone
